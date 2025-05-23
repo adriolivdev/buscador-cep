@@ -5,8 +5,10 @@
 Este projeto é um aplicativo simples que permite ao usuário buscar informações de endereço a partir de um CEP (Código de Endereçamento Postal) brasileiro. Utiliza a API pública ViaCEP para consultar os dados e exibe-os em uma interface gráfica feita com Tkinter.
 
 O objetivo é aplicar boas práticas de engenharia de software, como modularização do código, separação de responsabilidades e documentação clara, facilitando manutenção e evolução futura.
-
 ---
+### Preview
+![image](https://github.com/user-attachments/assets/f36a7002-6c23-4667-9715-b6c027532e33)
+
 
 ## Funcionalidades
 
